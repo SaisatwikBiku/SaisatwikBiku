@@ -34,4 +34,4 @@ Full-stack developer skilled in Machine Learning Concepts for building scalable 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/saisatwikb)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/SaisatwikBiku)
 
-![Saisatwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaisatwikBiku&show_icons=true&theme=radical)
+![alt text](image.png)
