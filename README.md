@@ -2,7 +2,12 @@
 
 I'm Sai Satwik Bikumandla!
 
-<h1 align="center"><a target="_blank" href="[https://prathmesh-ka-github.github.io/pratham-c0des./](https://rococo-horse-a3ea9b.netlify.app/)">Click to Visit my Portfolio Page Here.</a></h1>
+<h1 align="center"><a target="_blank" href="https://rococo-horse-a3ea9b.netlify.app/">Click to Visit My Portfolio Page</a></h1>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SaisatwikBiku/count.svg"/>
+</p>
 
 - 🔭 I’m currently working on exciting software projects and exploring new technologies.
 - 🌱 I’m currently learning advanced JavaScript, Python and Machine Learning Concepts.
