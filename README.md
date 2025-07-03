@@ -22,7 +22,7 @@ I'm Sai Satwik Bikumandla!
 
 ### 👨‍💻 About Me
 
-Full-stack developer skilled in Machine Learning Concepts for building scalable web apps. Experienced with REST APIs, AWS, MongoDB/MySQL, Git/GitHub, and Selenium for end-to-end deployment and testing.
+A Software Engineer skilled in JavaScript, React, Node.js, Python and Machine Learning concepts for building scalable web apps, with expertise in AWS, MongoDB/MySQL, Git/GitHub, and Selenium for end-to-end software development.
 
 ---
 
