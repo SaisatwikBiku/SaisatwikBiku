@@ -10,7 +10,6 @@ I'm Sai Satwik!
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 🤔 I’m looking for help with large-scale distributed systems.
 - 💬 Ask me about web development, backend engineering, or anything tech!
-- 📫 How to reach me: [saisatwikbikumandla9@gmail.com](mailto:saisatwikbikumandla9@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles and participating in hackathons!
 
@@ -33,8 +32,5 @@ A Software Engineer skilled in JavaScript, React, Node.js, Python and Machine Le
 - **Testing:** Selenium
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/saisatwikb)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/SaisatwikBiku)
 
 ![!\[alt text\](image.png)](dino.gif)
