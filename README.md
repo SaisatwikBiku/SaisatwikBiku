@@ -2,7 +2,7 @@
 
 I'm Sai Satwik!
 
-<h1 align="center"><a target="_blank" href="https://rococo-horse-a3ea9b.netlify.app/">Click to Visit My Portfolio Page</a></h1>
+<h1 align="center"><a target="_blank" href="https://satwik.info/">Click to Visit My Portfolio Page</a></h1>
 
 
 - 🔭 I’m currently working on exciting software projects and exploring new technologies.
